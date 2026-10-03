@@ -1,0 +1,12 @@
+# 构建产物
+build/
+bin/
+*.o
+*.d
+
+# 运行产物
+*.csv
+*.tmp
+
+# scripts 目录下生成
+scripts/out/
